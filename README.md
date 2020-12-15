@@ -1,2 +1,2 @@
 # ConcilSQL
-Consolidador de arquivos 
+Consolidador de arquivos Scripts SQL
