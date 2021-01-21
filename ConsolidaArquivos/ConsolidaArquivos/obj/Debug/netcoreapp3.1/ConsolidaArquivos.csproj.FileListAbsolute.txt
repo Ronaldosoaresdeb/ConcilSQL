@@ -1,0 +1,12 @@
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\bin\Debug\netcoreapp3.1\ConsolidaArquivos.exe
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\bin\Debug\netcoreapp3.1\ConsolidaArquivos.deps.json
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\bin\Debug\netcoreapp3.1\ConsolidaArquivos.runtimeconfig.json
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\bin\Debug\netcoreapp3.1\ConsolidaArquivos.runtimeconfig.dev.json
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\bin\Debug\netcoreapp3.1\ConsolidaArquivos.dll
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\bin\Debug\netcoreapp3.1\ConsolidaArquivos.pdb
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\obj\Debug\netcoreapp3.1\ConsolidaArquivos.AssemblyInfoInputs.cache
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\obj\Debug\netcoreapp3.1\ConsolidaArquivos.AssemblyInfo.cs
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\obj\Debug\netcoreapp3.1\ConsolidaArquivos.csproj.CoreCompileInputs.cache
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\obj\Debug\netcoreapp3.1\ConsolidaArquivos.dll
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\obj\Debug\netcoreapp3.1\ConsolidaArquivos.pdb
+C:\Users\matheus.bulow\Desktop\ConsolidaArquivos\ConsolidaArquivos\obj\Debug\netcoreapp3.1\ConsolidaArquivos.genruntimeconfig.cache
